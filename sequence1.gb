@@ -1,0 +1,15 @@
+LOCUS       AAH90045.1               217 aa                     UNK 01-JAN-1980
+DEFINITION  AAH90045.1 Growth hormone 1 [Homo sapiens].
+ACCESSION   AAH90045
+VERSION     AAH90045.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 matgsrtsll lafgllclpw lqegsafpti plsrlfdnam lrahrlhqla fdtyqefeea
+       61 yipkeqkysf lqnpqtslcf sesiptpsnr eetqqksnle llrisllliq swlepvqflr
+      121 svfanslvyg asdsnvydll kdleegiqtl mgrledgspr tgqifkqtys kfdtnshndd
+      181 allknyglly cfrkdmdkve tflrivqcrs vegscgf
+//

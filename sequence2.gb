@@ -1,0 +1,18 @@
+LOCUS       AAH03596.1               393 aa                     UNK 01-JAN-1980
+DEFINITION  AAH03596.1 Tumor protein p53 [Homo sapiens].
+ACCESSION   AAH03596
+VERSION     AAH03596.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 meepqsdpsv epplsqetfs dlwkllpenn vlsplpsqam ddlmlspddi eqwftedpgp
+       61 deaprmpeaa prvapapaap tpaapapaps wplsssvpsq ktyqgsygfr lgflhsgtak
+      121 svtctyspal nkmfcqlakt cpvqlwvdst pppgtrvram aiykqsqhmt evvrrcphhe
+      181 rcsdsdglap pqhlirvegn lrveylddrn tfrhsvvvpy eppevgsdct tihynymcns
+      241 scmggmnrrp iltiitleds sgnllgrnsf evrvcacagr drrteeenlr kkgephhelp
+      301 pgstkralpn ntssspqpkk kpldgeyftl qirgrerfem frelnealel kdaqagkepg
+      361 gsrahsshlk skkgqstsrh kklmfktegp dsd
+//

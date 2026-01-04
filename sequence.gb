@@ -1,0 +1,17 @@
+LOCUS       AAA29796.1               333 aa                     UNK 01-JAN-1980
+DEFINITION  AAA29796.1 hemoglobin [Pseudoterranova decipiens].
+ACCESSION   AAA29796
+VERSION     AAA29796.1
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mhssivlatv lfvaiasask trelcmksle hakvgtskea kqdgidlykh mfehypamkk
+       61 yfkhrenytp advqkdpffi kqgqnillac hvlcatyddr etfdayvgel marherdhvk
+      121 vpndvwnhfw ehfieflgsk ttldeptkha wqeigkefsh eishhgrhsv rdhcmnsley
+      181 iaigdkehqk qngidlykhm fehyphmrka fkgrenftke dvqkdaffvn kdtrfcwpfv
+      241 ccdssyddep tfdyfvdalm drhikddihl pqeqwhefwk lfaeylneks hqhlteaekh
+      301 awstigedfa headkhakae kdhhegehke ehh
+//
